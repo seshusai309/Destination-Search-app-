@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.img {
+  height: 300px;
+  width: 400px;
+}
+
+.img-head {
+  font-size: 20px;
+  color: black;
+  font-family: Roboto;
+  font-weight: 800;
+}
+
+.list-item {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 10px;
+}
